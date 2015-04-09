@@ -1,0 +1,27 @@
+a:link { color: #b14173; }
+a:visited { color: #b14173; }
+a:hover { color: #b14173; }
+a:active { color: #b14173; }
+
+.nav-pills > li.active > a, 
+.nav-pills > li.active > a:hover, 
+.nav-pills > li.active > a:focus {
+    background-color: #b14173;
+}
+
+.center-pills { display: inline-block; }
+
+.btn-default,
+.btn-default:hover,
+.btn-default:focus { 
+	background-color: #b14173;
+	color: white;
+}
+
+.ng-invalid.ng-dirty {
+	border-color: #fa787e;
+}
+
+.ng-valid.ng-dirty {
+	border-color: #78fa89;
+}
