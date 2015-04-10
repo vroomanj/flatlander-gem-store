@@ -25,3 +25,8 @@ a:active { color: #b14173; }
 .ng-valid.ng-dirty {
 	border-color: #78fa89;
 }
+
+.panel > .panel-heading {
+	background-color: #b14173;
+	color: white;
+}
